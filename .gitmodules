@@ -1,0 +1,3 @@
+[submodule "plasticTestSubtree"]
+	path = plasticTestSubtree
+	url = https://github.com/4xisblack/PlasticTestSubtree.git
